@@ -1,6 +1,6 @@
 {
   "name": "gulp-degfy-inject",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "向html中注入js或者css",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "author": "degfy@sina.com",
   "license": "ISC",
   "dependencies": {
-    "through": "^2.3.8",
-    "glob-all": "^3.0.3"
+    "glob-all": "^3.0.3",
+    "through2": "^2.0.1"
   }
 }
